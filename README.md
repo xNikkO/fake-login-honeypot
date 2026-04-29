@@ -124,4 +124,4 @@ PyHoneypot/
 
 ## Ostrzeżenie
 
-Projekt edukacyjny. Uruchamianie wyłącznie na własnych maszynach i w sieciach. Wystawianie honeypota w publicznym internecie wiąże się z odpowiedzialnością prawną i operacyjną. Webhook URL jest sekretem — nie commitować go do publicznych repozytoriów.
+Projekt edukacyjny. Uruchamianie wyłącznie na własnych maszynach i w sieciach. Wystawianie honeypota w publicznym internecie wiąże się z odpowiedzialnością prawną i operacyjną. Webhook URL jest sekretem, nie commitować go do publicznych repozytoriów.
