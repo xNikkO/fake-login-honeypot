@@ -1,4 +1,4 @@
-# PyHoneypot
+# Fake Login Honeypot
 
 Prosty honeypot HTTP w Pythonie z fałszywą stroną logowania. Przechwytuje credentiale prób logowania i wysyła alerty na kanał Discord przez webhooka.
 
