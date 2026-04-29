@@ -88,6 +88,9 @@ Zatrzymanie: `CTRL+C`.
 
 W przeglądarce: `http://<IP>/` → wpisać dowolny login/hasło → kliknąć "Zaloguj się".
 
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/4f5603f6-e81b-45ce-b4f2-f6edb27855a9" />
+
+
 Symulacja bota z terminala:
 
 ```bash
@@ -96,16 +99,7 @@ curl -X POST http://localhost/ -d "username=admin&password=admin123"
 
 ## Przykładowe powiadomienie Discord
 
-```
-@everyone
-ALERT HONEYPOT — PROBA LOGOWANIA!
-IP intruza: 192.168.1.42
-Data i godzina: 2026-04-29 19:08:31
-Atakowany port: 80 (HTTP)
-Login: admin
-Haslo: admin
-Proba w oknie 5 min: 1/3
-```
+<img width="1336" height="339" alt="image" src="https://github.com/user-attachments/assets/8535c1d3-7c09-41c9-a118-83e844fc7998" />
 
 ## Konfigurowalne parametry
 
